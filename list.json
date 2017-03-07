@@ -2,7 +2,9 @@
   "server": "dufi",
   "files": [
     {"name": "Original Base VE TBI", "url": "https://raw.githubusercontent.com/ugifractal/DuFi/master/tbi.drx"},
-    {"name": "Escudo MPI", "url": "https://raw.githubusercontent.com/ugifractal/DuFi/master/mpi.drx"}
+    {"name": "Escudo MPI", "url": "https://raw.githubusercontent.com/ugifractal/DuFi/master/mpi.drx"},
+    {"name": "Escudo MPI Bank Inj", "url": "https://raw.githubusercontent.com/ugifractal/DuFi/master/mpi_bank_inj_cylce.drx"}
+    
             
   ]
 }
