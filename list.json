@@ -3,8 +3,8 @@
   "files": [
     {"name": "Original Base VE TBI", "url": "https://raw.githubusercontent.com/ugifractal/DuFi/master/tbi.drx"},
     {"name": "Escudo MPI", "url": "https://raw.githubusercontent.com/ugifractal/DuFi/master/mpi.drx"},
-    {"name": "Escudo MPI Bank Inj", "url": "https://raw.githubusercontent.com/ugifractal/DuFi/master/3.drx"}
-    
+    {"name": "Escudo MPI Bank Inj", "url": "https://raw.githubusercontent.com/ugifractal/DuFi/master/3.drx"},
+    {"name": "Escudo MPI Bank Inj 2", "url": "https://raw.githubusercontent.com/ugifractal/DuFi/master/4_modified.drx"}
             
   ]
 }
